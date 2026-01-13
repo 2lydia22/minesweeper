@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lydiapeng/Documents/ms-project/ms-project/MinesweeperBackend/MinesweeperBackend.csproj",
-      "projectName": "MinesweeperBackend",
-      "projectPath": "/Users/lydiapeng/Documents/ms-project/ms-project/MinesweeperBackend/MinesweeperBackend.csproj",
+      "projectUniqueName": "/Users/lydiapeng/Documents/ms-project/ms-project/Backend/Backend.csproj",
+      "projectName": "Backend",
+      "projectPath": "/Users/lydiapeng/Documents/ms-project/ms-project/Backend/Backend.csproj",
       "packagesPath": "/Users/lydiapeng/.nuget/packages/",
-      "outputPath": "/Users/lydiapeng/Documents/ms-project/ms-project/MinesweeperBackend/obj/",
+      "outputPath": "/Users/lydiapeng/Documents/ms-project/ms-project/Backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lydiapeng/.nuget/NuGet/NuGet.Config"
