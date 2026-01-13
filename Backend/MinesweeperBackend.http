@@ -1,0 +1,6 @@
+@MinesweeperBackend_HostAddress = http://localhost:5266
+
+GET {{MinesweeperBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

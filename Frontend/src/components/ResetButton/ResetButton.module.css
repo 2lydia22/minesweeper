@@ -1,0 +1,21 @@
+.startButton {
+  padding: 10px 20px;
+  background-color: #747474;
+
+  border-top: 4px solid #e1e0e0;
+  border-left: 4px solid #e1e0e0;
+  border-right: 4px solid #515151;
+  border-bottom: 4px solid #515151;
+
+  transition: transform 0.02s linear;
+
+  
+  
+}
+.startButton:active{
+  transform: translateY(3px);
+  border-top: 4px solid #515151;
+  border-left: 4px solid #515151;
+  border-right: 4px solid #303030;
+  border-bottom: 4px solid #373737;
+}

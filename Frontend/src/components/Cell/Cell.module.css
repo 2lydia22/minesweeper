@@ -1,0 +1,25 @@
+.cell{
+
+    width: 40px;
+    aspect-ratio: 1 / 1;
+    padding: 0;
+
+    background-color: #747474;
+
+    border-top: 4px solid #c5c5c5;
+    border-left: 4px solid #c5c5c5;
+    border-right: 4px solid #515151;
+    border-bottom: 4px solid #515151;
+    
+}
+
+.revealed{
+
+    width: 40px;
+    aspect-ratio: 1 / 1;
+    border: 1px solid #666666;
+    
+
+    background-color: #8f8e8e;
+
+}
